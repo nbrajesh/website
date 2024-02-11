@@ -383,7 +383,7 @@ section .title::after{
     width: 50%;
 }
 
-.skills {
+.skills-content {
   pointer-events: none;
 }
 
