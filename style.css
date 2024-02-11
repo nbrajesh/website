@@ -354,7 +354,7 @@ section .title::after{
     font-size: 18px;
 }
 .skills .skills-content .right .line{
-    height: 5px;
+    height: 50px;
     width: 100%;
     background: lightgrey;
     position: relative;
