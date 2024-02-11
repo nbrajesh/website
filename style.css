@@ -327,7 +327,7 @@ section .title::after{
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: 'red';
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
@@ -353,12 +353,12 @@ section .title::after{
     font-weight: 500;
     font-size: 18px;
 }
-/* .skills .skills-content .right .line{
+.skills .skills-content .right .line{
     height: 5px;
     width: 100%;
     background: lightgrey;
     position: relative;
-} */
+}
 .skills .skills-content .right .line::before{
     content: "";
     position: absolute;
