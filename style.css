@@ -383,6 +383,14 @@ section .title::after{
     width: 50%;
 }
 
+.skills {
+  pointer-events: none;
+}
+
+.skills * {
+  pointer-events: auto;
+}
+
 
 .owl-dots{
     text-align: center;
